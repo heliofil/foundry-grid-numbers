@@ -2,8 +2,8 @@
   "title": "Grid numbers",
   "id": "grid-numbers",
   "description": "A simple module to attach numbers to your grid cells. \n 
-  Allow much simplier navigation and communication with your teammates.
-  Original version by Chiskey:  https://github.com/Ch1sKey/foundry-grid-numbers/releases/tag/v1.1.4/module.json",
+                  Allow much simplier navigation and communication with your teammates. \n
+                  Original version by Chiskey:  https://github.com/Ch1sKey/foundry-grid-numbers/releases/tag/v1.1.4/module.json",
   "authors": [
     {
       "name": "Helio Filho"
@@ -12,8 +12,9 @@
   "esmodules": [
     "scripts/init.js"
   ],
-  "manifest": "https://github.com/heliofil/foundry-grid-numbers/releases/tag/v0.9.3/module.json",
-  "download": "https://github.com/heliofil/foundry-grid-numbers/archive/refs/tags/v0.9.3.zip",
+  "manifest": "https://github.com/heliofil/foundry-grid-numbers/releases/tag/0.9.3/module.json",
+            
+  "download": "https://github.com/heliofil/foundry-grid-numbers/archive/refs/tags/0.9.3.zip",
   "version": "0.9.3",
   "compatibility": {
     "minimum": "10",
