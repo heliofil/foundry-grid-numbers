@@ -12,8 +12,7 @@
   "esmodules": [
     "scripts/init.js"
   ],
-  "manifest": "https://github.com/heliofil/foundry-grid-numbers/releases/tag/0.9.3/module.json",
-            
+  "manifest": "https://github.com/heliofil/foundry-grid-numbers/releases/download/0.9.3/module.json",          
   "download": "https://github.com/heliofil/foundry-grid-numbers/archive/refs/tags/0.9.3.zip",
   "version": "0.9.3",
   "compatibility": {
